@@ -1,0 +1,16 @@
+@mixin WH($w,$h){
+    width:$w;
+    height:$h;
+}
+@mixin DISPLAY($d1,$d2,$d3,$d4){
+    display:$d1;
+    align-items:$d2;
+    justify-content:$d3;
+    flex-direction:$d4;
+}
+@mixin MarginP($d1,$d2,$d3,$d4){
+    margin-top:$d1;
+    margin-bottom:$d2;
+    margin-left:$d4;
+    margin-right:$d4;
+}
