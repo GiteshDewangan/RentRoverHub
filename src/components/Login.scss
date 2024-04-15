@@ -1,0 +1,40 @@
+@import "_Mixin";
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.MainDiv{
+@include WH(250px,400px);
+background-color:red;
+h5{
+    text-align: center;
+    padding-top:20px;
+}
+.Login{
+    @include WH(250px,210px);
+    @include DISPLAY(flex,center,none,column);
+    background-color:blue;
+    margin-top:25px;
+    input{
+        @include WH(200px,30px);
+        @include MarginP(10px,none,2px,none);
+        font-weight:bold;
+        font-size:10px;
+        border-radius:10px;
+
+    }
+}
+.BUDIV{
+    @include WH(250px,60px);
+    @include DISPLAY(flex,center,space-around,none);
+    @include MarginP(5px,none,none,none);
+    background-color:orange;
+    #BUTTON{
+        @include WH(100px,35px);
+    }
+    .CHANGE{
+        background-color:blue;
+    }
+}
+}
