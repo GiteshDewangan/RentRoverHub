@@ -4,7 +4,7 @@
   "description": "Backend for RentRover",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node run dev",
     "dev": "nodemon server.js"
   },
   "license": "MIT",
