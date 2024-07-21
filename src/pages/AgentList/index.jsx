@@ -409,7 +409,12 @@ const AgentListPage = () => {
                 <div className="flex flex-1 flex-col h-[431px] md:h-auto items-start justify-start w-full">
                   <Img
                     className="h-[282px] md:h-auto object-cover w-full"
-                    src="https://s3.envato.com/files/428332449/_DSC8752.jpg"                    
+                    src="https://static.vecteezy.com/system/resources/thumbnails/046/171/843/small_2x/confident-indian-businessman-in-professional-attire-and-pose-photo.jpg"                    
+                      
+                      
+                      
+                      
+                      
                       
                       
                       
