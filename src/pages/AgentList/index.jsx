@@ -363,7 +363,7 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        pratap sunder
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
