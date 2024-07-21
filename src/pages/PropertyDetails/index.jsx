@@ -74,8 +74,7 @@ const PropertyDetailsPage = () => {
                           <Text
                             className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                             size="txtManropeSemiBold20Gray900"
-                          >
-                            2861 62nd Ave, Oakland, CA 94605
+                          > Neta ji Chowk , 493441
                           </Text>
                         </div>
                         <div className="flex sm:flex-col flex-row gap-4 items-start justify-start md:pr-10 sm:pr-5 pr-[180px] w-full">
@@ -85,7 +84,7 @@ const PropertyDetailsPage = () => {
                                 className="text-2xl md:text-[22px] text-gray-900 sm:text-xl tracking-[-0.48px] w-full"
                                 size="txtManropeBold24Gray900"
                               >
-                                $649,900
+                                120000 /-
                               </Text>
                               <Text
                                 className="text-gray-600 text-xs w-full"
@@ -101,7 +100,7 @@ const PropertyDetailsPage = () => {
                                 className="text-2xl md:text-[22px] text-gray-900 sm:text-xl tracking-[-0.48px] w-full"
                                 size="txtManropeBold24Gray900"
                               >
-                                $850 / month
+                                7999 / month
                               </Text>
                               <Text
                                 className="text-gray-600 text-xs w-full"
@@ -119,7 +118,8 @@ const PropertyDetailsPage = () => {
                           size="txtManropeSemiBold20Gray900"
                         >
                           Well-constructed 1562 Sq Ft Home Is Now Offering To
-                          You In Uttara For Sale
+                          For Sale                    
+  
                         </Text>
                         <Text
                           className="leading-[180.00%] max-w-[712px] md:max-w-full text-gray-600 text-lg"
