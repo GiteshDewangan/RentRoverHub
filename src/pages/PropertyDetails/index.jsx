@@ -323,7 +323,15 @@ const PropertyDetailsPage = () => {
                       <div className="flex flex-row gap-6 items-center justify-start w-full">
                         <Img
                           className="h-[150px] md:h-auto object-cover rounded-[10px] w-[150px]"
-                          src="images/img_rectangle5599.png"
+                          src="https://static.vecteezy.com/system/resources/thumbnails/046/171/843/small_2x/confident-indian-businessman-in-professional-attire-and-pose-photo.jpg"                    
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+  
                           alt="rectangle5599"
                         />
                         <div className="flex flex-col gap-[3px] items-start justify-start w-auto">
@@ -331,7 +339,7 @@ const PropertyDetailsPage = () => {
                             className="text-gray-900 text-xl tracking-[-0.40px] w-auto"
                             size="txtManropeSemiBold20Gray900"
                           >
-                            Bruno Fernandes
+                            anil kumar
                           </Text>
                           <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                             <div className="flex flex-row gap-1 items-start justify-start w-auto">
@@ -378,7 +386,7 @@ const PropertyDetailsPage = () => {
                               className="text-base text-gray-600 w-auto"
                               size="txtManropeMedium16"
                             >
-                              bruno@relasto .com
+                              anil@rentRoverHub.com
                             </Text>
                           </div>
                           <div className="flex flex-row gap-2.5 items-center justify-start w-full">
@@ -391,7 +399,9 @@ const PropertyDetailsPage = () => {
                               className="text-base text-gray-600 w-auto"
                               size="txtManropeMedium16"
                             >
-                              +65 0231 965 965
+                              +91 7898541251                                        
+  
+  
                             </Text>
                           </div>
                         </div>
