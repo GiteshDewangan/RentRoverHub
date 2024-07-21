@@ -409,7 +409,15 @@ const AgentListPage = () => {
                 <div className="flex flex-1 flex-col h-[431px] md:h-auto items-start justify-start w-full">
                   <Img
                     className="h-[282px] md:h-auto object-cover w-full"
-                    src="images/img_rectangle5619.png"
+                    src="https://s3.envato.com/files/428332449/_DSC8752.jpg"                    
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+  
                     alt="rectangle5619"
                   />
                   <div className="bg-white-A700 border border-bluegray-100 border-solid flex flex-col items-start justify-start px-5 py-3.5 rounded-bl-[10px] rounded-br-[10px] w-full">
@@ -575,10 +583,7 @@ const AgentListPage = () => {
                 <div className="flex flex-1 flex-col h-[431px] md:h-auto items-start justify-start w-full">
                   <Img
                     className="h-[282px] md:h-auto object-cover w-full"
-                    src="https://img.freepik.com/free-photo/portrait-serious-smiling-modern-indian-man-near-office-building_496169-2890.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721520000&semt=ais_user"                    
-                      
-                      
-  
+                    src="https://t4.ftcdn.net/jpg/01/56/19/15/360_F_156191504_F8KusEJnAdRbyztflKKtQnnU43GIyWv4.jpg"                    
                     alt="rectangle5622"
                   />
                   <div className="bg-white-A700 border border-bluegray-100 border-solid flex flex-col items-start justify-start px-5 py-3.5 rounded-bl-[10px] rounded-br-[10px] w-full">
