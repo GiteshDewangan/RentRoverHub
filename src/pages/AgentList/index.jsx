@@ -253,7 +253,7 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        Niyaz wangde
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
@@ -308,7 +308,7 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        Gaurav Patel
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
@@ -418,7 +418,7 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        Bramha nandan kumar 
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
@@ -473,7 +473,7 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        Virat niketan
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
@@ -528,7 +528,8 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        sandeep kohli                    
+  
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
@@ -583,8 +584,10 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
-                      </Text>
+                      Ravi Teja                    
+  
+                      </Text>                    
+  
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
                           <Img
@@ -638,7 +641,7 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        Gitanshu pathak
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
@@ -693,7 +696,7 @@ const AgentListPage = () => {
                         className="text-gray-900 text-xl tracking-[-0.40px] w-full"
                         size="txtManropeSemiBold20Gray900"
                       >
-                        Bruno Fernandes
+                        Nagendra Baxi
                       </Text>
                       <div className="flex flex-row gap-3.5 items-center justify-start w-full">
                         <div className="flex flex-row items-center justify-evenly w-2/5">
