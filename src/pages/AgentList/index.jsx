@@ -632,7 +632,7 @@ const AgentListPage = () => {
                 <div className="flex flex-1 flex-col h-[431px] md:h-auto items-start justify-start w-full">
                   <Img
                     className="h-[282px] md:h-auto object-cover w-full"
-                    src="images/img_rectangle5623.png"
+                    src="https://static.vecteezy.com/system/resources/thumbnails/037/495/402/small_2x/ai-generated-executive-arrival-confident-indian-business-professional-with-tablet-photo.jpg"
                     alt="rectangle5623"
                   />
                   <div className="bg-white-A700 border border-bluegray-100 border-solid flex flex-col items-start justify-start px-5 py-3.5 rounded-bl-[10px] rounded-br-[10px] w-full">
