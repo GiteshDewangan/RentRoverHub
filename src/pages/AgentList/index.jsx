@@ -575,7 +575,10 @@ const AgentListPage = () => {
                 <div className="flex flex-1 flex-col h-[431px] md:h-auto items-start justify-start w-full">
                   <Img
                     className="h-[282px] md:h-auto object-cover w-full"
-                    src="https://media.licdn.com/dms/image/C5103AQEFIK8Xy2B4nA/profile-displayphoto-shrink_800_800/0/1532437503276?e=2147483647&v=beta&t=ixYWHTiPvxapqThxcYwBvs4cl6YENZGx0yDIRubVOVc"
+                    src="https://img.freepik.com/free-photo/portrait-serious-smiling-modern-indian-man-near-office-building_496169-2890.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721520000&semt=ais_user"                    
+                      
+                      
+  
                     alt="rectangle5622"
                   />
                   <div className="bg-white-A700 border border-bluegray-100 border-solid flex flex-col items-start justify-start px-5 py-3.5 rounded-bl-[10px] rounded-br-[10px] w-full">
